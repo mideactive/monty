@@ -1,1 +1,1 @@
-Stack(LIfO) and queue(FIFO)
+Stack(LIFO) and queue(FIFO)
